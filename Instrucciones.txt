@@ -1,0 +1,5 @@
+1. El Juego
+Reglas del Juego
+Se juega de a un jugador, que cuenta con 60 segundos para sumar la mayor cantidad de puntos. Debe
+escribir una palabra que se encuentre dentro de la línea del subtítulo que supone se ubica luego de la
+que aparece primero en pantalla.  
