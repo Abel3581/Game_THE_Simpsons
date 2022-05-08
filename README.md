@@ -1,3 +1,3 @@
-# Game_The_Simpsons Trabajo final grupal UNGS
-# Adivina que subtítulo sigue, leer archivo instrucciones.
+# Trabajo final introducción a la programación, grupal UNGS
+# Adivina qué titulo sigue, leer archivo instrucciones.
 # Para probarlo instalar Pygame y python.
